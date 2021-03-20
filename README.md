@@ -1,10 +1,9 @@
 # Neural_Network_Charity_Analysis
-Herein, I build a binary classifier that is capable of predicting whether applicants will be successful if funded by a hypothetical angel investment firm, Alphabet Soup.
 
-## Overview of the analysis: 
-Explain the purpose of this analysis.
+## Overview of the analysis
+Using machine learning and neural networks, I built a binary classifier that is capable of predicting whether applicants will be successful if funded by a hypothetical grant issuing institution that herein is referred to as AphabetSoup. The original dataset provided by AlphabetSoup contained information on 34,000 organizations that have received funding from them over the years. After three attempts, I was able to build a binary classifier that could predict an organization's success after being funded with a 72% accuracy rate.
 
-## Results: 
+## Results
 Using bulleted lists and images to support your answers, address the following questions.
 
 - Data Preprocessing
@@ -16,5 +15,5 @@ Using bulleted lists and images to support your answers, address the following q
     - Were you able to achieve the target model performance?
     - What steps did you take to try and increase model performance?
 
-## Summary: 
+## Summary
 Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
