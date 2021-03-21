@@ -30,15 +30,13 @@ The variables initially in the dataset were as follows:
 
 - Data Preprocessing
     - What variable(s) are considered the target(s) for your model?
-        - IS_SUCCESSFUL is the target variable.
+     - The target variable in our dataset is IS_SUCCESSFUL.
     - What variable(s) are considered to be the features for your model?
-        -  
-  
-![](/Images/target_values.png)
-  
+     -   
     - What variable(s) are neither targets nor features, and should be removed from the input data?
-        -   
+     -   
 
+![](/Images/target_values.png)
 ![](/Images/external_to_model_values.png)
 
 - Compiling, Training, and Evaluating the Model
