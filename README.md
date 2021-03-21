@@ -11,7 +11,22 @@ Using machine learning and neural networks, I built a binary classifier that is 
         - [Panadas](https://pandas.pydata.org/), [os](https://www.geeksforgeeks.org/os-module-python-examples/#:~:text=The%20OS%20module%20in%20Python,using%20operating%20system%2Ddependent%20functionality.&text=path*%20modules%20include%20many%20functions%20to%20interact%20with%20the%20file%20system.), [Tensorflow](https://www.tensorflow.org/learn), [Scikit Learn](https://github.com/scikit-learn/scikit-learn)
 
 ## Results
-Using bulleted lists and images to support your answers, address the following questions.
+
+- Initial Data
+
+The variables initially in the dataset were as follows:
+
+    - EIN and NAME — Identification columns
+    - APPLICATION_TYPE — Alphabet Soup application type
+    - AFFILIATION — Affiliated sector of industry
+    - CLASSIFICATION — Government organization classification
+    - USE_CASE — Use case for funding
+    - ORGANIZATION — Organization type
+    - STATUS — Active status
+    - INCOME_AMT — Income classification
+    - SPECIAL_CONSIDERATIONS — Special consideration for application
+    - ASK_AMT — Funding amount requested
+    - IS_SUCCESSFUL — Was the money used effectively
 
 - Data Preprocessing
     - What variable(s) are considered the target(s) for your model?
