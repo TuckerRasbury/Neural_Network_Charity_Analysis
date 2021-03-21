@@ -47,7 +47,6 @@ The variables initially in the dataset were as follows:
 ![](/Images/external_to_model_values.png)
 
 - Compiling, Training, and Evaluating the Model
-
 The details below detail I approached my most successful model, attempt 3. After my second model, the accuracy stayed relatively the same. The change between the first and second models was the frequency at which I saved the model's weights.
 
     - How many neurons, layers, and activation functions did you select for your neural network model, and why?
