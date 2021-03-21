@@ -47,14 +47,17 @@ The variables initially in the dataset were as follows:
 ![](/Images/external_to_model_values.png)
 
 - Compiling, Training, and Evaluating the Model
+
+The details below detail I approached my most successful model, attempt 3. After my second model, the accuracy stayed relatively the same. The change between the first and second models was the frequency at which I saved the model's weights.
+
     - How many neurons, layers, and activation functions did you select for your neural network model, and why?
-        - I used approximately 125 neurons, three layers, and a "relu" activation function. 
+        - I used approximately 125 neurons, three layers, and a "relu" activation function. Given the high number of variables, I u
         
     - Were you able to achieve the target model performance?
-        - Unfortunately, I was not able to achieve the target model performance of 75%. I was able to achieve a 72% accuracy rate.
+        - Unfortunately, I was not able to achieve the target model performance of 75%. I was able to achieve a 72% accuracy rate, 3% short of the target model performance.
 
     - What steps did you take to try and increase model performance?
-        - 
+        - To increase model performance, I used three hidden layers and 125 neurons in the hidden layers. The risk of this was overfitting, but given the accuracy rate, I am fairly confident the model did not overfit the training dataset.
 
 ##### Model
 
