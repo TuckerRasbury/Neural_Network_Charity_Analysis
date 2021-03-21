@@ -68,4 +68,6 @@ The variables initially in the dataset were as follows:
 ## Summary
 Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
 
-# The details below detail I approached my most successful model, attempt 3. After my second model, the accuracy stayed relatively the same. The change between the first and second models was the frequency at which I saved the model's weights.
+My deep learning model, particularly attempt 3, accomplished an approximately 73% accuracy rate. I think a different model might standardize the numerical values in the dataset prior to execution, ie. INCOME_AMT and ASK_AMT. By doing this, the model would be built to overcome the potential issue of over emphasizing compartively high numbers in the dataset. 
+
+In addition to that, another model would have STATUS filtered for only either active or inactive organizations and then those results would be kept for analysis. The column could subsequently be dropped. These numbers could be distorting the model since the status of the organization at the time of the reporting does not inherently impact the success of that institution.
