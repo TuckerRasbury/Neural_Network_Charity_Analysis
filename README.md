@@ -15,7 +15,6 @@ Using machine learning and neural networks, I built a binary classifier that is 
 - Initial Data
 
 The variables initially in the dataset were as follows:
-
     - EIN and NAME — Identification columns
     - APPLICATION_TYPE — Alphabet Soup application type
     - AFFILIATION — Affiliated sector of industry
@@ -30,11 +29,13 @@ The variables initially in the dataset were as follows:
 
 - Data Preprocessing
     - What variable(s) are considered the target(s) for your model?
-     - The target variable in our dataset is IS_SUCCESSFUL.
+        - The target variable in our dataset is IS_SUCCESSFUL.
+
     - What variable(s) are considered to be the features for your model?
-     -   
+        -    ds
+
     - What variable(s) are neither targets nor features, and should be removed from the input data?
-     -   
+        -   
 
 ![](/Images/target_values.png)
 ![](/Images/external_to_model_values.png)
