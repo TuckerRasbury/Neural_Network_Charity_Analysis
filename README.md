@@ -48,8 +48,21 @@ The variables initially in the dataset were as follows:
 
 - Compiling, Training, and Evaluating the Model
     - How many neurons, layers, and activation functions did you select for your neural network model, and why?
+        - I used approximately 125 neurons, three layers, and a "relu" activation function. 
+        
     - Were you able to achieve the target model performance?
+        - Unfortunately, I was not able to achieve the target model performance of 75%. I was able to achieve a 72% accuracy rate.
+
     - What steps did you take to try and increase model performance?
+        - 
+
+##### Model
+
+![](/Images/model.png)
+
+##### Model Evaluation
+
+![](/Images/model_evaluation.png)
 
 ## Summary
 Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
