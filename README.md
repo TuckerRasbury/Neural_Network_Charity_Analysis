@@ -30,13 +30,13 @@ The variables initially in the dataset were as follows:
 
 - Data Preprocessing
     - What variable(s) are considered the target(s) for your model?
-        - The target variable in our dataset is IS_SUCCESSFUL.
+        - The target variable in our dataset is as follows: IS_SUCCESSFUL.
 
     - What variable(s) are considered to be the features for your model?
-        -    ds
+        - The variables considered features in our model are as follows: APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT.
 
     - What variable(s) are neither targets nor features, and should be removed from the input data?
-        -   ffff
+        -   The variables that are neither targets nor features are as follows: EIN and NAME.
 
 ![](/Images/target_values.png)
 ![](/Images/external_to_model_values.png)
