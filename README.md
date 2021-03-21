@@ -15,6 +15,7 @@ Using machine learning and neural networks, I built a binary classifier that is 
 - Initial Data
 
 The variables initially in the dataset were as follows:
+
     - EIN and NAME — Identification columns
     - APPLICATION_TYPE — Alphabet Soup application type
     - AFFILIATION — Affiliated sector of industry
