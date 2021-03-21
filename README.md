@@ -35,10 +35,14 @@ The variables initially in the dataset were as follows:
     - What variable(s) are considered to be the features for your model?
         - The variables considered features in our model are as follows: APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT.
 
-![](/Images/target_values.png)
-
     - What variable(s) are neither targets nor features, and should be removed from the input data?
         -   The variables that are neither targets nor features are as follows: EIN and NAME.
+
+##### Establishing the Target and Features in the Code
+
+![](/Images/target_values.png)
+
+##### Variables that are neither Targets or Features 
 
 ![](/Images/external_to_model_values.png)
 
