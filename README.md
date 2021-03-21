@@ -30,8 +30,17 @@ The variables initially in the dataset were as follows:
 
 - Data Preprocessing
     - What variable(s) are considered the target(s) for your model?
+        - IS_SUCCESSFUL is the target variable.
     - What variable(s) are considered to be the features for your model?
+        -  
+  
+![](/Images/target_values.png)
+  
     - What variable(s) are neither targets nor features, and should be removed from the input data?
+        -   
+
+![](/Images/external_to_model_values.png)
+
 - Compiling, Training, and Evaluating the Model
     - How many neurons, layers, and activation functions did you select for your neural network model, and why?
     - Were you able to achieve the target model performance?
