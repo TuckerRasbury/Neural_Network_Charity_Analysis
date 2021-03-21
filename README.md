@@ -36,7 +36,7 @@ The variables initially in the dataset were as follows:
         -    ds
 
     - What variable(s) are neither targets nor features, and should be removed from the input data?
-        -   
+        -   ffff
 
 ![](/Images/target_values.png)
 ![](/Images/external_to_model_values.png)
